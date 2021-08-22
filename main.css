@@ -1,0 +1,11 @@
+.main {
+  height: 100%;
+  color: black;
+}
+
+.main .image {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+  border: 1px solid red;
+}
